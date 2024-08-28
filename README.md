@@ -22,3 +22,8 @@ Las siguientes screenshots demuestran el ejemplo, utilizando el Oracle Helper pa
 <img src="images/fig3.png" width="735" height="516" alt="">
 <div><b>Fig 4. Consultar los datos de un empleado.</b></div>
 <img src="images/fig4.png" width="653" height="419" alt="">
+<p>
+This program uses the HR samples from Oracle :
+<a href="https://github.com/oracle-samples/db-sample-schemas">Oracle db samples</a>
+</p>
+
